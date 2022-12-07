@@ -15,3 +15,7 @@ The command `npm run mock` is used to run json server.
 Link: 
 
  https://www.npmjs.com/package/json-server#getting-started
+
+## Improvements
+I tried to create a node server in order to create a full stack project. 
+You can run the command `node server`to run the backend.
