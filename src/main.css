@@ -52,6 +52,7 @@ nav{
 .card-image {
     border-radius: 9px;
     width: 100%;
+    height: 500px;
 }
 
 .card-status {
