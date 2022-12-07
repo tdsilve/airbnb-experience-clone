@@ -1,0 +1,54 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "status": "sold out",
+            "stars": "5.0" ,
+            "comments": "6",
+            "country": "usa",
+            "title": "Life lessons with Katie Zaferes",
+            "cost": "$136",
+            "photo": "https://images.pexels.com/photos/5014587/pexels-photo-5014587.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": 2,
+            "status": "online",
+            "stars": "5.0" ,
+            "comments": "30",
+            "country": "usa",
+            "title": "Learn wedding photography",
+            "cost": "$125",
+            "photo": "https://images.pexels.com/photos/265722/pexels-photo-265722.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": 3,
+            "status": "sold out",
+            "stars": "4.8" ,
+            "comments": "4.0",
+            "country": "usa",
+            "title": "Group Mountain Biking",
+            "cost": "$50",
+            "photo": "https://images.pexels.com/photos/2158963/pexels-photo-2158963.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": 4,
+            "status": "sold out",
+            "stars": "5.0" ,
+            "comments": "1",
+            "country": "usa",
+            "title": "Guide",
+            "cost": "$50",
+            "photo": "https://images.pexels.com/photos/12471762/pexels-photo-12471762.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+            "id": 5,
+            "status": "online",
+            "stars": "3.8" ,
+            "comments": "7",
+            "country": "usa",
+            "title": "Adventure",
+            "cost": "$50",
+            "photo": "https://images.pexels.com/photos/5111520/pexels-photo-5111520.jpeg?auto=compress&cs=tinysrgb&w=800"
+        }
+    ]
+}
